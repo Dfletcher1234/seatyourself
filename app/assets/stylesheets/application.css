@@ -14,11 +14,25 @@
  *= require_self
  */
 body {
-    background-color: #FFFAE2;
+    background-color: black;
+}
+
+label{
+  color: grey;
 }
 
 .app_links_sec {
   font-size: 30px;
-  text-decoration: none;
-  text-shadow: 1.5px 1px #ff0000;
+  color: grey;
+}
+h1 a {
+text-decoration-color: none;
+color: grey;
+}
+p a{
+color: grey;
+}
+
+h1, p, h2 {
+  color: grey;
 }
